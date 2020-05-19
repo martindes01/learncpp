@@ -3,7 +3,7 @@
 
 namespace constants
 {
-  inline constexpr double gravity{ 9.8 }; // m s^-1
+  inline constexpr double gravity{ 9.8 }; // m s^-2
 }
 
 #endif
